@@ -1,5 +1,7 @@
 Learning Laravel using laracasts.com tutorial "Laravel 8 from Scratch".
 
+https://laracasts.com/series/laravel-8-from-scratch
+
 
 ------------------------------------------
 
